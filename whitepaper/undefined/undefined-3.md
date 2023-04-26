@@ -1,6 +1,6 @@
 # 테크놀로지
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>가상인물 제작 기술 DeepReal™ 소개</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>가상인물 제작 기술 DeepReal™ 소개</p></figcaption></figure>
 
 ## **DEEP REAL**™ **AI**
 
@@ -22,7 +22,7 @@ ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals
 
 ## 딥리얼 기술과 이터니티
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>딥리얼AI 기술로 탄생한 세계최초가상 K-POP걸그룹 이터니티<br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>딥리얼AI 기술로 탄생한 세계최초가상 K-POP걸그룹 이터니티<br></p></figcaption></figure>
 
 \
 '이터니티'는 딥리얼AI 기술로 만들어진 가상 프로젝트 걸그룹입니다. 일명 ‘AI심쿵챌린지’로 불리며 SNS에서 화제를 모은 가상인물 남녀 각각 101명 중 이상형 테스트로 최종 뽑힌 11명으로 구성되었습니다. 이터니티는 AI가 한국 아이돌 역사 20년의 인물 이미지를 학습하여 만들어진 101명의 가상 인물 중 최종 뽑힌 11명으로, 뛰어난 외모는 물론 세계관을 형성한 매력적인 가상 프로젝트 걸그룹입니다.
@@ -33,10 +33,42 @@ ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals
 
 ### 이터니티 필모그라피
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 국내 AI엔터테이너 중 유일하게 글로벌 팬덤 보유. \*팬덤 명 '이터널'
 * 21년 3월 론칭 후 22년까지 4번째 디지털 싱글 앨범 발매, 오는 2023년 상반기 첫 번째 정규앨범 발매 예정
 * 영국 \<V\&A> 왕립박물관의 '한류 WAVE' 전시에서, BTS, 블랙핑크와 함께 전시중( \~ 2023년 6월)
 * 영국 BBC 특별다큐멘터리 '100 Women 2022, NEXT KPOP PRINCESS' 특집방송 등 300건 이상 보도
 * SCMP, AFN, SBS, EBS, YTN, 아리랑TV, KBS 등 예능부터 뉴스까지, 2022년 국내외 다수 방송 출연&#x20;
+
+## Professional K-Pop Motion transformed into Avatar&#x20;
+
+### 안무와 오리지널 안무창작자간 매칭 인증으로 안무가 로얄티 수입 기반 확보
+
+영상 시대 속 댄서들이 음악 홍보에 미치는 영향력에 비해 오리지널 안무 저작권 기반 수입이 전무해서 댄서들의 오랫동안의 염원였던 안무 경제권을 실현할 수 있게 됨.
+
+1. 안무등록을 위해서는 댄서가 댄서를 초대해야 하는 구조로 신뢰성 확보
+2. 안무 모션 캡처 ( 당사가 원격으로 진행 혹은 안무가 직접 진행)&#x20;
+3. 유통 및 매출 쉐어
+
+<div>
+
+<figure><img src="../../.gitbook/assets/onlydancerinvted.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/registered (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/dancerrevenue.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## VS. 집단 쌍대 비교에 의한  안무/작곡/목소리/작사 영상 생산 특허 및 시제품 개발 실적&#x20;
+
+### 영상간 대결을 32강부터 토너먼트로 진행 가능하며, 특정 기준 영상에 무수한 합성이 가능한 기술로 최고의 산출물이 생산될수 있는 시스템
+
+가상 아이돌 하나를 놓고서, 대회를 열어 음원이나 작곡 대결을 토너먼트로 진행이 가능함. 여기서 선정된 곡 하나를 두고서, 무수한 작사 대결을 벌일수 있으며, 최종 선정된 음원(가사가 흘러가는 음원)을 두고 최종적으로 목소리 대결을 벌일수 있슴.  (무한 다단계 네트웍 생산 시스템)
+
+![](<../../.gitbook/assets/image (3).png>) ![](<../../.gitbook/assets/image (1).png>)
