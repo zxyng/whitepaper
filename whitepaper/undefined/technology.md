@@ -1,4 +1,4 @@
-# 테크놀로지
+# Technology
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>가상인물 제작 기술 DeepReal™ 소개</p></figcaption></figure>
 
@@ -22,14 +22,14 @@ ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals
 
 ## 딥리얼 기술과 이터니티
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>딥리얼AI 기술로 탄생한 세계최초가상 K-POP걸그룹 이터니티<br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>딥리얼AI 기술로 탄생한 세계최초가상 K-POP걸그룹 이터니티<br></p></figcaption></figure>
 
 \
 '이터니티'는 딥리얼AI 기술로 만들어진 가상 프로젝트 걸그룹입니다. 일명 ‘AI심쿵챌린지’로 불리며 SNS에서 화제를 모은 가상인물 남녀 각각 101명 중 이상형 테스트로 최종 뽑힌 11명으로 구성되었습니다. 이터니티는 AI가 한국 아이돌 역사 20년의 인물 이미지를 학습하여 만들어진 101명의 가상 인물 중 최종 뽑힌 11명으로, 뛰어난 외모는 물론 세계관을 형성한 매력적인 가상 프로젝트 걸그룹입니다.
 
 현재까지 ‘아임리얼(I’m real)’, 노필터(No filter)’, '파라다이스(Paradise)', 'DTDTGMGN' 등 음원, 뮤직비디오를 선보였으며 론칭이래 **국내외 300건 이상 미디어 노출** 등 다양한 활동을 하고 있습니다. '이터니티'는 딥리얼AI는 전 세계적으로 새롭게 떠오르는 버추얼 셀리브리티, 인플루언서 등으로 활동하는 버츄얼 휴먼을 움직임의 제약, 긴 제작 기간, 높은 운용 비용 등 기존의 한계점을 벗어나 보다 합리적인 비용으로 만날 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>이터니티 4집 싱글앨범 'DTDT GMGN' 뮤직비디오 중 (2022)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>이터니티 4집 싱글앨범 'DTDT GMGN' 뮤직비디오 중 (2022)</p></figcaption></figure>
 
 ### 이터니티 필모그라피
 
@@ -71,4 +71,4 @@ ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals
 
 가상 아이돌 하나를 놓고서, 대회를 열어 음원이나 작곡 대결을 토너먼트로 진행이 가능함. 여기서 선정된 곡 하나를 두고서, 무수한 작사 대결을 벌일수 있으며, 최종 선정된 음원(가사가 흘러가는 음원)을 두고 최종적으로 목소리 대결을 벌일수 있슴.  (무한 다단계 네트웍 생산 시스템)
 
-![](<../../.gitbook/assets/image (3).png>) ![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (3) (2).png>) ![](<../../.gitbook/assets/image (1) (1).png>)
