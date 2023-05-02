@@ -1,4 +1,8 @@
-# What is Social Producing Dapp
+---
+description: 소셜프로듀싱 플랫폼 징(Zxyng)을 소개합니다.
+---
+
+# Our Product
 
 ## How Business Model works
 
