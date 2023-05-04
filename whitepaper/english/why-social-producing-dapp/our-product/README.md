@@ -10,7 +10,7 @@ description: Introducing Zxyng, a social production platform.
 
 ### The Basics
 
-&#x20;The evaluation policy for creators and collective producers and the compensation policy for creators and producers are all transparently, quickly and automatically executed by smart contracts. Smart contracts initially start with the most verified polygon mainnet, but if traffic increases in the future, sigmachain's mainnet can be used for stable operation.
+&#x20;The evaluation policy for creators and collective producers and the compensation policy for creators and producers are all transparently, quickly and automatically executed by smart contracts.&#x20;
 
 ### Become an AI-dol creator member
 

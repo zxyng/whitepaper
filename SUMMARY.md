@@ -49,4 +49,3 @@
     * [Team](whitepaper/ri-ben-yu/team.md)
     * [RoadMap](whitepaper/ri-ben-yu/roadmap.md)
     * [Disclaimer](whitepaper/ri-ben-yu/disclaimer.md)
-* [임시(홈페이지에 쓰일 Product 내용)](product.md)
