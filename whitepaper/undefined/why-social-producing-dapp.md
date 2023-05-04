@@ -7,7 +7,7 @@ description: >-
 
 # Why Social Producing Dapp?
 
-{% embed url="https://zxyng.github.io/" %}
+<figure><img src="../../.gitbook/assets/hero1.png" alt=""><figcaption></figcaption></figure>
 
 수많은 기획사별로 1\~2명의 전문가가 아이돌을 데뷔시키던 전통적인 관행에 대해서, 징은,단일의 버츄얼 기획사 역할을 하는 플랫폼으로써, 수천\~수만명의 집단지성이 수백\~수천명의 아이돌을 데뷔시키는 시스템인 것입니다.
 

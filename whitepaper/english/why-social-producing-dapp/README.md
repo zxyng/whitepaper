@@ -1,6 +1,6 @@
 # Why Social Producing Dapp?
 
-{% embed url="https://zxyng.github.io/" %}
+<figure><img src="../../../.gitbook/assets/hero1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Social Producing means a system that debuts and nurtures idols by evaluating individual activity videos of idols using group producer members. This is similar to the founding philosophy of Augur (https://www.augur.net/), which was introduced as an excellent example of successful ICO projects in the past.
 
