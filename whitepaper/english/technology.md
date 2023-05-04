@@ -8,6 +8,12 @@
 
 &#x20;Deep Real AI automatically and quickly creates and provides virtual human content based on generative artificial intelligence. You can create a virtual human face that fits your persona by analyzing the faces of stars from all over the world, such as KPOP idols as well as ordinary people of all ages. It is possible to express a realistic character as if it were a real person, and from 2023, research is being conducted to express not only the face but also the hairstyle, clothing, makeup, and pose in a realistic way.
 
+
+
+{% embed url="https://www.youtube.com/watch?v=EYIdOXjwOOE" %}
+
+&#x20;
+
 ### 1) Real-Time Face swap&#x20;
 
 &#x20;With real-time face swap technology that can be used in various live broadcast situations such as online streaming, the usability of virtual humans will be expanded to the realm of real-time interaction. Creates a realistic face regardless of race, gender, or age, and learns the gaze processing and muscles of the face in the video to finely control the movement of the virtual person as in real life. Communication infrastructure and digital environments such as metaverse, AI, and blockchain continue to evolve with the rise of 5G, enabling real-time communication with fans through deep real technology.

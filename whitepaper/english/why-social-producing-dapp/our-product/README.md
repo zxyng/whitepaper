@@ -19,3 +19,5 @@ description: Introducing Zxyng, a social production platform.
 ### &#x20;Become a Producer Member of Collective Producer
 
 &#x20;If you simply introduce yourself in 10 lines or less and get 50% of the votes in favor of 20% of existing group producers, you become a producer member. However, the initial total size is 5,000, and this may close early on a first-come, first-served basis.&#x20;
+
+{% embed url="https://youtu.be/MPEFAHNVyU4" %}

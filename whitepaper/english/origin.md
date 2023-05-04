@@ -4,6 +4,10 @@ description: “When I woke up one day, I was the CEO of an idol agency”
 
 # Origin
 
+
+
+{% embed url="https://youtu.be/66LXdc7NAeU" %}
+
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Select NEXT AI.DOL and grow it into a top star.&#x20;
