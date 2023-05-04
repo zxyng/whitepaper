@@ -2,44 +2,44 @@
 
 ## **2023**
 
-7월\~10월 디앱 베타 버젼 개발 및 테스트&#x20;
+July-October: DApp beta version development and testing&#x20;
 
-10월: 가상 아이돌 크리에이터 및 소셜 프로듀서 사전 모집 이벤트 시작\~&#x20;
+October: AI-Dol creator and social producer pre-recruitment event begins\~&#x20;
 
-11월: 소셜프로듀싱 앱 '지잉' 베타 론칭
+November: Social producing app 'Zxyng' beta launch&#x20;
 
-**Q4**  세계최초 가상아이돌 이터니티 소셜프로듀싱 챌린지 및 NFT AirDrop
+Q4: The world's first virtual idol Eternity Social Produce Challenge and NFT AirDrop
 
-**Q4\~2024.Q1**  AIDOL  크리에이터  5백명 모집&#x20;
+Q4\~2024.Q1: Recruitment of 500 AI-Dol creators
 
-**Q4\~2024.Q1** AIDOL 소셜프로듀서 5천명 모집 : 5천명 NFT 소셜 프로듀서 뱃지 수여
+Q4\~2024.Q1: Recruit 5,000 AI-Dol Social Producers: Award 5,000 NFT Social Producer badges
 
 
 
 ## **2024**
 
-**H1** 얼굴 - 몸체 합성 : 가상 아이돌의 전신을 영상 속에서 표현( 정해진 동작과 패션 위주로 )
+H1 Face-Body Synthesis: Expressing the entire body of a virtual idol in a video (focused on fixed motions and fashion)&#x20;
 
-**H1** 일반 (팬)  회원  : 20만명 모집
+H1 general (fan) members: 200,000 recruited&#x20;
 
-**H2**  몸체- 패션 합성 : 가상 아이돌의 전신 속 패션을 사용자가 커스텀가능한 형태로 제공
+H2 Body-Fashion Synthesis: Provides fashion in the virtual idol's entire body in a form that can be customized by the user&#x20;
 
-**H2**  일반 (팬) 회원  : 100만명 모집
+H2 general (fan) members: 1 million recruited&#x20;
 
-**H1\~H2** 몸체- 안무 합성 : 가상 아이돌의 전신에 원하는 동작과 모션(안무)을 적용 가능한 형태로 제공
+H1\~H2 body- choreography synthesis: Apply desired motions and motions (choreography) to the entire body of the virtual idol&#x20;
 
-**H2** 아이돌 그룹 형성 기능 : 여러 가상 아이돌이 팀을 이루어 협업하여 공연할수 있는 형태로 제공
+H2 Idol group formation function: allows several virtual idols to team up and perform in collaboration.
 
 
 
 ## **2025**
 
-**H1**  팬덤 그룹 기능 : 가상아이돌의 팬들이 모여 소통을 하며, 굿즈를 제작하고 판매를 할수 있는 형태로 제공
+H1 fandom group function: Virtual idol fans gather and communicate, produce goods, and provide them in a form that can be sold.&#x20;
 
-**H1**  가상 아이돌 회원  : 5천명
+H1 AI-Dol members: 5,000&#x20;
 
-**H1**  소셜 프로듀서 회원  : 5만명
+H1 Social Producer Members: 50,000&#x20;
 
-**H1**  일반 (팬) 회원: 가상 : 5백만명
+H1 General (Fan) Members: 5 million
 
-**H2**  가사/비트/멜로디/목소리/사운드이팩트(악기) 요소 콘텐츠 합성 및  아이템몰 제공
+H2 lyrics/beat/melody/voice/sound effect (instrument) element content synthesis function and provision of digital item mall (marketplace)

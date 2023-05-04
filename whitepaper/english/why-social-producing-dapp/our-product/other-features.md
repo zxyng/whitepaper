@@ -1,9 +1,7 @@
 # Other Features
 
-* 크리에이터 회원을 위한 AI아이돌 분양 관리
-* 크리에이터 회원을 위한 AI아이돌 활동 영상 관리
-* 크리에이터 회원을 위한 AI돌 실적 및 수입 확인 기능
-* 프로듀서 회원을 위한 활동영상별 평가/성공 예측 기능
-* 프로듀서 회원을 위한  평가 실적 및 수입 확인 기능&#x20;
-* 스튜디오 기능&#x20;
-  * AI아이돌 콘텐츠 제작 스튜디오 주요 기능: 분양받은 AI아이돌에게 노래와 춤을 입히고 무대 배경을 꾸민 후 소셜 프로듀싱 플랫폼에 영상으로 송출.  &#x20;
+* AI-Dol Management for Creator Members AI-Dol activity video management for creator members&#x20;
+* AI-Dol performance and income check function for creator members&#x20;
+* Evaluation/success prediction function for each activity video for producer members&#x20;
+* Evaluation performance and income confirmation function for producer members
+* studio function AI-Dol Content Production Studio Key Features: After making AI-Dol sing and dance, decorate the stage background, and transmit the video to a social production platform.

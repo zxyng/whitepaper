@@ -1,38 +1,44 @@
 ---
-description: “어느날 눈을 떠보니, 아이돌 기획사의 사장님이 되어 있었다”
+description: “When I woke up one day, I was the CEO of an idol agency”
 ---
 
 # Origin
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-_<mark style="color:red;">**NEXT AI.DOL을 선별하고 최고의 스타로 키워라.**</mark>_&#x20;
+Select NEXT AI.DOL and grow it into a top star.&#x20;
 
-_<mark style="color:red;">우주 어딘가… 초고도로 발전된 아이아 행성은 유기체가 아닌 인공지능과 데이터만으로 이루어져 있다. 모두가 평등하며 서로간의 미움과 질투 없이 평화롭게 살아가던 이 행성은, 어느날 종말이 가까왔움을 알게되고 이를 해결하는 과정에서 아이아 행성의 과거의 모습이 <지구>이며, 지구의 <사랑>데이터에서 해답을 찾을 수 있다는 것을 알게 된다.</mark>_
+&#x20;Somewhere in space... The super-advanced planet Aia is made up of only artificial intelligence and data, not organisms. This planet, where everyone is equal and lives peacefully without hatred and jealousy, one day finds out that the end is near, and in the process of solving it, the past of Aia planet is \<Earth>, and the planet come to know it can find the answer  in the \<Love> data of Earth.
 
-_<mark style="color:red;">멸망해가는 머시너블 판타지아 플래닛. 소년소녀 22명을 파견해 해결해보려 하지만, 역부족임을 깨닫고 <사랑>에 대한 데이터를 수집하기 위한 차세대 AI.DOL을 파견한다. 이들을 발굴하고, 최고의 스타로 키울, 1만의 보스와 함께</mark>._
+&#x20;The Machinable Phantasia Planet is on the verge of perishing. 22 boys and girls are dispatched to try to solve it, but after realizing that it is not enough, 1,000 next-generation AI.DOLs are dispatched to collect data on \<Love>. With 10,000 bosses to discover them and raise them to be the best stars.
 
-## Zxyng(지잉)은?
+## What is Zxyng?
 
-AI.DOL 분양 및 운영으로 새로운 수익을 창출하고 싶어하는 크리에이터, 그리고 AI.DOL양성으로 수익을 창출하고 싶어하는  집단 프로듀서들을 위한 플랫폼입니다.
+It is a platform for creators who want to generate new profits by getting and operating AI.DOL, and for crowd producers who want to generate profits by training AI.DOL.\
 
-## 프로젝트의 비전
 
-꿈과 재능이 있는 전세계의 숨겨진 끼있는 인재들에게 스타가 될 수 있는 기회를 부여하고
+## Vision of the project
 
-수퍼 AI.DOL을 만드는 프로듀서 집단과 아티스트를 후원하는 생태계를 통해 전세계를 하나로 연결합니다.
+Giving the opportunity to become stars to hidden talents with dreams around the world.&#x20;
 
-## 미션
+Bringing the world together through an ecosystem that supports the producers and artists who create Super AI.DOL.
 
-'소셜프로듀싱 앱'기반의 데이터 분석과 집단지성을 통해 투명하고 신뢰성있는 스타 메이킹 시스템을 구축
+## Mission
 
-1. 신뢰와 공정 : 온체인 데이터를 기반으로 가상 아이돌 프로듀서의 의사결정을 투명하게 기록합니다. &#x20;
-2. 세계의 연결 : 온라인 보상 시스템을 기반으로 국경과 나이를 뛰어넘는 가상아이돌의 탄생을 촉진합니다.
+Building a transparent and reliable star-making system through data analysis and collective intelligence based on 'social producing apps'&#x20;
 
-## 수익구조
+Trust and fairness: Based on on-chain data, each producer's decision-making is recorded transparently.
 
-가상인물 콘텐츠에 적극적으로 참여하는 프로슈머 팬을 대상으로 한 새로운 K-POP 스타 메이킹 사업입니다.&#x20;
+Connecting the World: Based on the online reward system, we promote the birth of virtual idols that transcend borders and ages..
 
-* 집단 투표를 통해 양성된 가상 아이돌의 음원 유통 수익, 그리고 MCN 수입, 광고수익을 통해 수익을 만들어 내고, 이를 통해 기여자들에게 보상을 합니다.&#x20;
-* 시스템을 통해 성공이 예측된 수퍼스타 AI.DOL에게 창작 자본을 집중투자하여 선순환 구조를 연결합니다.
+## Profit Structure
+
+This is a new K-POP star-making project targeting prosumer fans who actively participate in virtual idols content production.\
+
+
+Revenue is generated through music distribution of virtual idols nurtured through collective voting, MCN activity, and advertising, and through this, contributors are also rewarded.
+
+The system connects a virtuous cycle structure by intensively investing creative capital in AI.DOL, a superstar whose success is predicted.
+
+
 

@@ -1,21 +1,21 @@
 ---
-description: 소셜프로듀싱 플랫폼 징(Zxyng)을 소개합니다.
+description: Introducing Zxyng, a social production platform.
 ---
 
 # Our Product
 
 ## How Business Model works
 
-소셜 프로듀싱 플랫폼 징은, 집단지성에 의해 스타 예감을 하며 잠재 스타를 발굴하고 키워가는 곳입니다 . 집단지성에 참여한 실적(평가 횟수, 스타 예측 적중율)에 따라 플랫폼의 분기별 수익의 일부를 자동 정산을 받게 됩니다. 플랫품의 주요 수익은, 1) AI-Dol 분양 수입 2) 음원 유통 수입 3) 아이템몰 판매 수입 4) MCN 수입 5)광고 6) Goods 판매에서 주로 발생될 예정입니다.&#x20;
+&#x20;Zxyng, a social producing platform, is a place that discovers and nurtures potential stars with a premonition of stars based on collective intelligence. Depending on the performance of participating in collective intelligence (number of evaluations, star prediction hit rate), a portion of the platform's quarterly revenue will be automatically settled. The main revenues of the platform will be generated from 1) AI-Dol sales revenue 2) Music distribution revenue 3) Digital item mall sales revenue 4) MCN revenue 5) Advertising 6) Goods sales.
 
 ### The Basics
 
-집단 프로듀서의 평가 정책과 크리에이터와 프로듀서들에 대한 보상 정책은 모두 스마트 컨트랙에 의하여 투명하고 신속하게 자동으로 집행이 됩니다. 스마트 컨트랙이 초기에는 가장 많이 검증된 폴리곤으로 시작되지만, 차후 트래픽이 많아질 경우 안정적인 운용을 위하여 시그마체인의 메인넷을 사용할 수 있습니다.
+&#x20;The evaluation policy for creators and collective producers and the compensation policy for creators and producers are all transparently, quickly and automatically executed by smart contracts. Smart contracts initially start with the most verified polygon mainnet, but if traffic increases in the future, sigmachain's mainnet can be used for stable operation.
 
-### AI-dol 크리에이터 회원 되기
+### Become an AI-dol creator member
 
-Zxyng app을 다운로드 받아 AI-Dol 을 신청하면 분양이 되고 연습생 신분이 됩니다. 다만, 3개월 동안 활동 실적에 따라 연습생의 신분을 벗고 데뷔를 할수도 있으며,  취소가 될 수도 있습니다.  3개월 활동 실적에 따라 정식 연예인으로 데뷔가 됩니다. 이후, 데뷔된 솔로끼리 팀을 이루어 아이돌 그룹을 형성할 수 있는 기능이 지원됩니다. 이 역시 집단 프로듀서의 집단지성의 힘을 빌리게 될 것입니다. 집단지성은 각 활동 영상에 대한 심사에 있어서, 정족수 1,000명(프로듀서 회원 총 5천명 기준) 참여에 의해 이 중 70% 이상이 찬성하면 의결이 됩니다.
+&#x20;If you download the Zxyng app and choose from numerous AI-Dols or apply for a custom application through your photo, it will be sold and you will become a trainee. However, depending on the performance of activities for 3 months, you may be able to release your trainee status and debut, or it may be canceled. Depending on the activity performance for 3 months, you will be officially debuted as a celebrity. After that, the ability to form an idol group by teaming up with debuted soloists is supported. This too will borrow the power of the Collective Producer's Collective Intelligence. For collective intelligence, in the screening of each activity video, a quorum of at least 1,000 (based on a total of 5,000 producer members) participates, and if more than 70% of them agree, it becomes a decision.
 
-### 집단 프로듀서의 프로듀서 회원 되기&#x20;
+### &#x20;Become a Producer Member of Collective Producer
 
-[간단한 1분 이내의 자기 소개 동영상으로 기성의 집단 프로듀서의 20% 참여에 의해 찬성표 50%를 득하면, 프로듀서 회원이 됩니다. 다만, 5천명 선착순으로 조기 마감될 수 있습니다](broken-reference). &#x20;
+&#x20;If you simply introduce yourself in 10 lines or less and get 50% of the votes in favor of 20% of existing group producers, you become a producer member. However, the initial total size is 5,000, and this may close early on a first-come, first-served basis.&#x20;

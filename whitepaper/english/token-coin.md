@@ -1,22 +1,16 @@
----
-description: >-
-  주요 액터인 크리에이터와 프로듀서 회원의 활동 실적에 따른 포인트가 지급됩니다. 이 포인트는 , 이 포인트를 유발시키는 액티비티를 블록에
-  기록시키며, 블록체인 토큰의 역할을 하게 됩니다. 토큰은 일정 기간과 일정 양을 달성하게 되면, 플랫폼 코인과 앱 내에서 교환이 될 수
-  있으며, 상장된 플랫폼 코인을 통해 현금 수익을 달성할 수 있습니다.
----
-
 # Token/Coin
 
-토큰 지급&#x20;
+&#x20;Points are awarded according to the activity performance of creators and producer members, who are the main actors. This point and the activity that triggers this point is recorded in a block, and serves as a blockchain token. Tokens can be exchanged with platform coins within the app after a certain period and a certain amount are achieved, and cash returns can be achieved through the listed platform coins.
 
-&#x20; 1\) 가상 아이돌 크리에이터 회원에게 토큰이 지급되는 시점  : 연습생 합격시 /개별 활동 영상 업로드시 / 데뷔시 / 데뷔 후 활동 영상 업로드시 / 데뷔후 활동 영상의 좋아요,덧글, 공유하기 실적
+Token payment
 
-&#x20; 2\) 프로듀서 회원에게 토큰이 지급되는 시점 : 프로듀서 회원으로 승급시/ 개별 영상에 대한 투표시/ 일정 기간 프로듀서 회원의  투표 결과들이 , 스타 예측 능력이 뛰어나다고 계산될 때로써, 자신이 투표한 크리에이터의 영상들을 통해, 해당 크리에이터가 데뷔될 때 / 해당 크리에이터의 기간내 활동 영상들의 좋아요,덧글,공유하기 실적에 따른 가산점&#x20;
+1. When tokens are given to AI-Dol creator members: When trainees pass / When individual activity videos are uploaded / Debut / When activity videos are uploaded after debut / Fans’ likes, comments, and sharing performance of post-debut activity videos&#x20;
+2. When tokens are paid to producer members: When promoted to producer member / When voting for individual videos / When the producer member's star prediction ability is calculated to be excellent for a certain period of time / When the corresponding creator debuts / The creator's activities Performance of fans liking, commenting, and sharing videos
 
-&#x20;&#x20;
+&#x20;
 
-토큰 staking rule
+&#x20;Token staking rule
 
-&#x20; 1\) 토큰은 일정량 이상이 쌓여야 하며 일정 기간이 경과해야  플랫폼 코인과 환전이 가능
+&#x20; 1\) Tokens must be accumulated over a certain amount and can be exchanged with platform coins only after a certain period of time has elapsed
 
-플랫폼 코인 총량&#x20;
+Platform Coin Total Amount&#x20;
