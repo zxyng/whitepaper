@@ -1,7 +1,7 @@
 ---
 description: >-
   Join the AI-Kpop Creator Community Create Your Own K-Pop Idols with Artificial
-  Intelligence
+  Intelligence  AI-Kpopクリエイターコミュニティ参加人工知能で自分だけのK-Popアイドルを作る
 ---
 
 # Candidates for AI-Dols
@@ -24,3 +24,8 @@ description: >-
 
 
 
+<ベネフィット>
+
+* AIで生成されたエンタテインメント及びイノベーションの最前線に立ってください -他のクリエーターと協力し強いコミュニティを構築してください。 -最新のAI技術を学習して自分の創作物に適用してください。
+* 自分だけのK-popアイドルを作って世界にお見せして下さい。 -あなたの才能と創意性を皆にお見せしてください。
+* 加入を望む方はe-mailアドレスを残してください。
