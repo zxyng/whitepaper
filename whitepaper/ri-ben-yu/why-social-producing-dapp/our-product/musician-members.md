@@ -37,6 +37,10 @@ description: >-
 Famous Choreographer dancing to the song, Miss Kim.
 {% endembed %}
 
-우수 인디뮤지션의 곡들이 있는 아이템몰. 곡은 mp3로 제공되며, AI-Dol 크리에이터가 mp3 작곡자가 설정해 놓은 조건에 따라 구매 혹은 음원유통시 수익쉐어 조건으로 자신의 AI-Dol에 적용할수 있슴.&#x20;
+우수 인디뮤지션의 곡들이 있는 아이템몰. 곡은 mp3로 제공되며, AI-Dol 크리에이터<mark style="color:red;">가(</mark>AI-Dol 크리에이터는 으로 이해하고 번역진행하겠습니다.<mark style="color:red;">)</mark>AI-Dol 크리에이터<mark style="color:red;">가</mark> mp3 작곡자<mark style="color:red;">가</mark> 설정해 놓은 조건에 따라 구매 혹은 <mark style="color:red;">음원유통시 수익쉐어</mark> 조건으로 자신의 AI**-**Dol에 적용할수 있<mark style="color:red;">슴</mark>.&#x20;
+
+
+
+優れたインディミュージションの曲がそろっているアイテムショップ。曲はmp3で提供され、AI-Dolクリエイターはmp3作曲者が設定した条件に応じて購入が可能であり、または音源が流通される際の収益をシェアする条件として自分のAI-Dolに適用することが可能になる。
 
 ![](<../../../../.gitbook/assets/image (9).png>)
