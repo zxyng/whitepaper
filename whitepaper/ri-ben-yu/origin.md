@@ -1,8 +1,10 @@
 ---
-description: “어느날 눈을 떠보니, 아이돌 기획사의 사장님이 되어 있었다”
+description: “ある日目を覚ますと、アイドル企画会社の社長になっていた”
 ---
 
 # Origin
+
+
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
