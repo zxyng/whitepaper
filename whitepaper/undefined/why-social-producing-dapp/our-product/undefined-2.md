@@ -1,13 +1,12 @@
----
-description: >-
-  We has been doing something innovative with swarm of dancers. Among them were
-  AiKi and Sooho Ryu(Chris Brown likes her choreographer) . Bboy Virus (TIP
-  Crew) and Japan's Genius Bboy Tzuki.
----
+# 안무가 멤버(회원)
 
-# Choreographer Members
+우리는 댄서들과 함께 혁신적인 대안들을 제시해왔습니다.  그들중에는 한류 댄서 스타 Aiki도 있고, 류수호 선생(미스터 트롯의 안무감독도 했으며, 미국의 최고의 댄서 힙합 랩퍼인 크리스 브라운이 인스타그램 쪽지로 춤 춰달라고 할 정도입니다.) 한국 대표 비보이 Virus, 일본의 현존하는 최고의 천재 비보이 츠키도 있습니다. &#x20;
 
-우수 창작안무들이 있는 아이템몰. 안무는 일정 포맷(블루스크린)을 가진 영상으로 제공되며, 해당 안무가가 설정해 놓은 조건에 따라 구매 혹은 음원유통시 수익쉐어 조건으로 자신의 AI-Dol에 transformation (개발중) 하여 적용할 수 있슴.
+&#x20; \- 코로나 기간 동안, 세계 최초로 온라인 댄스 토너먼트 대회도 열었습니다. [https://www.youtube.com/watch?v=GEA7ZwlCueE](https://www.youtube.com/watch?v=GEA7ZwlCueE)&#x20;
+
+&#x20; \- 하나의 곡에 두 개의 안무 대결이 일어나는 포맷의 원쏭 투쇼 (one song, two shows) 도 진행한 바 있습니다. [https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
+
+&#x20; 우수 창작안무들이 있는 아이템몰. 안무는 일정 포맷(블루스크린)을 가진 영상으로 제공되며, 해당 안무가가 설정해 놓은 조건에 따라 구매 혹은 음원유통시 수익쉐어 조건으로 자신의 AI-Dol에 transformation (개발중) 하여 적용할 수 있슴.
 
 <figure><img src="../../../../.gitbook/assets/스크린샷 2023-05-02 오후 1.52.39.png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +14,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=XaVseVhd-pw" %}
 
-Dancers who participated our online dance tournaments
+우리의 온라인 댄스 토너먼트를 참여한 댄서들
 
 &#x20;\-라틴댄스 대회
 
@@ -57,9 +56,12 @@ https://www.instagram.com/reel/CT\_w0W9BA3l/?utm\_medium=copy\_link,
 
 \-심사위원(틱톡130만 팔로워 RATINO , 인스타1.2만 팔로워 HHAS): [https://www.instagram.com/p/CTfATeePMXJ/?utm\_medium=copy\_link](https://www.instagram.com/p/CTfATeePMXJ//?utm\_medium=copy\_link) , [https://www.instagram.com/p/CSbC2zKHs0K/?utm\_medium=copy\_link](https://www.instagram.com/p/CSbC2zKHs0K//?utm\_medium=copy\_link) , [https://www.instagram.com/p/CSY\_fiyh28L/?utm\_medium=copy\_link](https://www.instagram.com/p/CSY\_fiyh28L//?utm\_medium=copy\_link)&#x20;
 
-## World First Feature for Original Choreographer's economic compensation
+## 오리지널 안무가의 경제적 보상을 가능케 해주는 기능을 세계 최초로 개발
 
-&#x20;These features will be used as basis for compensating original choreographer of the related k-pop or musics.
+
+
+&#x20; 이 기능은, K-pop 음악들의 오리지널 안무가의 표시와 모션 캡처를 통한 수입창출의 기반이 될 것입니다.\
+
 
 
 
