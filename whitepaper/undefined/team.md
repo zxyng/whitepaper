@@ -25,7 +25,7 @@ ETERN!TY
 
 {% embed url="https://www.youtube.com/watch?v=GEA7ZwlCueE" %}
 
-* 또한 우리 팀은 moverse.club을 통해 K-pop 명곡의 Signature 안무 모션 캡처를 제작하여 Metaverse(Sandbox에서 댄스 모션을 담당하는 kinetix, 한국 대표 메인넷 시그마체인 Metaverse PikiRoom, 이스라엘의 avaturn 아바타 , 메타버스 케이팝 관 개발사 https:// www.gamestate.one/ 등) 에 공급해 오고 있습니다.   
+* 또한 우리 팀은 moverse.club을 통해 K-pop 명곡의 Signature 안무 모션 캡처를 제작하여 Metaverse(Sandbox에서 댄스 모션을 담당하는 kinetix, 한국 대표 메인넷 시그마체인 Metaverse PikiRoom, 이스라엘의 avaturn 아바타 , 메타버스 K-Pop 전용 콘서트장 개발사 https:// www.gamestate.one/ 등) 에 공급해 오고 있습니다.   
 
 <figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
