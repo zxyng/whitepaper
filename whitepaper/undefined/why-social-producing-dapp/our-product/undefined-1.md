@@ -1,11 +1,10 @@
 ---
 description: >-
-  We have partnered with a korea based music distributing platform,
-  muzeplatform.com and here is some sample musics they provide for our
-  partnership.
+  우리는 한국 기반의 음원 유통 플랫폼, 뮤즈플랫폼(muzeplatform.com) 과 제휴를 했습니다.  우리의 파트너쉽을 위해 그들이
+  제공하는 음원들의 예시입니다..
 ---
 
-# Musician Members
+# 뮤지션 멤버(회원)
 
 ![](<../../../../.gitbook/assets/image (7).png>)
 

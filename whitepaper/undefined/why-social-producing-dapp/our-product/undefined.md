@@ -1,6 +1,6 @@
-# Social Producer Members
+# 소셜 프로듀서 멤버 (회원)
 
-## Step 1 - Apply & Get Filtered or Get Invited
+## Step 1 - 신청하기 & 선발되거나 초대받거나
 
 1 ) 단독 신청 : 1차로 '10줄 내외의 간단한 자기 소개 ' 로 운영진에 의해 심사됨. 10인 이상 선발된 이후에는  100명(1천명/1만명/10만명)까지는, 프로듀서 회원의 40% (15%/10%/5%)참여에 의해, 참여자  55% 동의시 자동 선발.&#x20;
 
@@ -8,7 +8,7 @@
 
 
 
-## Step 2 - Vote For AI-Dol's Creator
+## Step 2 - AI-Dol's Creator 의 활동 영상에 투표하라 &#x20;
 
 &#x20;1\) AI-Dol 크리에이터들은 수시로 활동 영상 (노래를 부르는 영상, 춤을 추는 영상, 재담을 뽐내는 영상 등)을 올릴 것입니다. 프로듀서 회원은 알림을 받고 선착순으로 정족수 채워질때까지 투표할수 있는 기회의 창이 열리며, 정족수가 채워지면 더 이상 해당 영상에 대해 투표를 할 수는 없습니다.
 
@@ -20,20 +20,20 @@
 
 ![](<../../../../.gitbook/assets/image (6).png>)
 
-"Join the AI-Kpop Social Producer Community"
+“인공지능 기반의 Kpop 소셜 프로듀싱 커뮤니티에 가입하세요.”
 
-"Be a Judge and Grow Your Favorite AI-Generated K-Pop Idols"
+"프로듀서(심사위원)가 되어 AI가 생성한 K-pop Idol을 육성하세요."
 
-\<Benefits>
+< 혜택 >
 
-\-Help shape the future of AI-generated entertainment by providing feedback and guidance to the creators
+\-크리에이터에게 피드백과  가이드를 제공하여 AI로 생성되는 엔터테인먼트의 미래를 창출할 수 있도록 돕습니다.
 
-\-Collaborate with other fans and build a strong community around your favorite AI-generated K-pop idols
+\- 다른 팬들과 협력하고 좋아하는 AI 생성 K-pop 아이돌을 중심으로 강력한 커뮤니티를 구축하세요.
 
-\-Discover and promote new talented creators and their works
+\- 재능 있는 신인 크리에이터와 그들의 작품 발굴 및 홍보
 
-\-Gain exposure and recognition for your talent and creativity as a social producer
+\- 소셜 프로듀서로서의 재능과 창의성에 대한 발견 및 인정 받기
 
-\-Experience the excitement and joy of seeing your favorite AI-generated K-pop idols grow and evolve over time
+\- 좋아하는 AI 생성 K-pop 아이돌이 시간이 지남에 따라 성장하고 발전하는  것에 기여하는 설렘과 즐거움을 경험하십시오.
 
-"Apply Today!"
+&#x20;\-"오늘 신청하십시오!"
