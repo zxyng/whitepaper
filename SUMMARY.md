@@ -11,7 +11,7 @@
         * [뮤지션 멤버(회원)](whitepaper/undefined/why-social-producing-dapp/our-product/musician-members.md)
         * [안무가 멤버(회원)](whitepaper/undefined/why-social-producing-dapp/our-product/choreographer-members.md)
         * [팬 멤버(회원)](whitepaper/undefined/why-social-producing-dapp/our-product/fan-members.md)
-        * [다른 기타 기능들](whitepaper/undefined/why-social-producing-dapp/our-product/undefined-4.md)
+        * [다른 기타 기능들](whitepaper/undefined/why-social-producing-dapp/our-product/other-features.md)
     * [Technology](whitepaper/undefined/undefined-3.md)
     * [Token/Coin](whitepaper/undefined/undefined-2.md)
     * [Team](whitepaper/undefined/team.md)

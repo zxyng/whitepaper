@@ -12,13 +12,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=EYIdOXjwOOE" %}
 
-### 1) Real-Time Face swap&#x20;
+### 1) 실시간 얼굴 스와핑 기술 &#x20;
 
 온라인 스트리밍 등 각종 생방송 상황에서 활용 가능한 실시간 페이스 스왑 기술로, 버추얼 휴먼의 활용성을 실시간 상호작용의 영역으로까지 확장하게 됩니다. 인종, 남녀노소 구분 없이 리얼한 얼굴을 생성하여 영상 속 얼굴의 시선처리, 근육 등을 학습해 가상 인물의 움직임을 실제와 같이 미세하게 제어합니다.
 
 메타버스, AI, 블록체인 등 커뮤니케이션 인프라와 디지털 환경이 5G의 부상과 함께 계속 진화하고 있으며, 딥리얼 기술을 통해 팬들과 실시간 소통할 가능하게 합니다.
 
-### 2) Full Body Head talking animation without human actor
+### 2) 인간 대역없이 가능한 전신 얼굴 근육과 입술 움직임 기술
 
 ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals) 기술을 통해 가상 아이돌을 가이드하는 실제 사람 대역 배우가 없이도 콘텐츠 제작이 가능합니다. 다양한 콘텐츠를 지속적으로 제공해야 하는 엔터테인먼트사의 부담을 낮추는 획기적인 기술로, 제작 현장에 더욱 안정적이고 매력적인 기회를 창출합니다.
 
@@ -43,7 +43,7 @@ ChatGPT, TTS(text to speech), Speech to Face(Face prediction from speech signals
 * 영국 BBC 특별다큐멘터리 '100 Women 2022, NEXT KPOP PRINCESS' 특집방송 등 300건 이상 보도
 * SCMP, AFN, SBS, EBS, YTN, 아리랑TV, KBS 등 예능부터 뉴스까지, 2022년 국내외 다수 방송 출연&#x20;
 
-## Professional K-Pop Motion transformed into Avatar&#x20;
+## 프로페셔널 K-Pop 안무 모션이 100% 투영되는 움직이는 아바타&#x20;
 
 ### 안무와 오리지널 안무창작자간 매칭 인증으로 안무가 로얄티 수입 기반 확보
 
