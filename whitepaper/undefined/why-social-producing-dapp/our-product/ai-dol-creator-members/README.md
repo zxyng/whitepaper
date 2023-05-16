@@ -4,7 +4,7 @@ description: >-
   좋습니다.
 ---
 
-# AI-Dol Creator Members
+# AI-Dol 크리에이터 멤버(회원)
 
 ## &#x20;Feature One : AI-Dol 분양 받기
 
