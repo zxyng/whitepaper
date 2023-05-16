@@ -6,7 +6,7 @@
     * [Why Social Producing Dapp?](whitepaper/undefined/why-social-producing-dapp.md)
       * [Our Product](whitepaper/undefined/why-social-producing-dapp/our-product/README.md)
         * [AI-Dol Creator Members](whitepaper/undefined/why-social-producing-dapp/our-product/ai-dol-creator-members/README.md)
-          * [Candidates for AI-Dols](whitepaper/undefined/why-social-producing-dapp/our-product/ai-dol-creator-members/candidates-for-ai-dols.md)
+          * [AI-Dol을 위한 연습생 모집](whitepaper/undefined/why-social-producing-dapp/our-product/ai-dol-creator-members/ai-dol.md)
         * [Social Producer Members](whitepaper/undefined/why-social-producing-dapp/our-product/social-producer-members.md)
         * [Musician Members](whitepaper/undefined/why-social-producing-dapp/our-product/musician-members.md)
         * [Choreographer Members](whitepaper/undefined/why-social-producing-dapp/our-product/choreographer-members.md)
