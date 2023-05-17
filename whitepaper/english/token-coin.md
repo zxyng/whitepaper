@@ -13,4 +13,49 @@ Token payment
 
 &#x20; 1\) Tokens must be accumulated over a certain amount and can be exchanged with platform coins only after a certain period of time has elapsed
 
-Platform Coin Total Amount&#x20;
+Platform Coin Total Amount : 1B (1,000,000,000)
+
+## Token Allocation
+
+| Category                                | Allocation        | % of Total Supply |
+| --------------------------------------- | ----------------- | ----------------- |
+| Activity Compensation (Swap)            | 100,000,000       | 10.0%             |
+| Foundation Staking                      | 300,000,000       | 30.0%             |
+| Marketing, Community, Airdrop,  Listing | 150,000,000       | 15.0%             |
+| Team                                    | 200,000,000       | 20.0%             |
+| Advisors                                | 50,000,000        | 5.0%              |
+| Private Sales                           | 100,000,000       | 10.0%             |
+| Development & Operation                 | 100,000,000       | 10.0%             |
+| **Total Supply**                        | **1,000,000,000** | **100%**          |
+
+#### **Allocation Details** <a href="#allocation-details" id="allocation-details"></a>
+
+**Act-to-Earn**
+
+We allocates 10% (100,000,000) of the total Zxyng token supply as act-to-earn to attract a wide range of players to the Zxyng ecosystem and to give ownership to Social Producers and AI-Dol Creators.
+
+**Foundation Staking**&#x20;
+
+30% (300,000,000) as Staking Rewards. The detailed reward policies for stakers will be determined after the ecosystem's decentralized governance is established.
+
+**Marketing, Community, Airdrop,  Listing**
+
+15% (150,000,000) as an Ecosystem fund for launching promotions, global marketing, alliance partnership rewards,Airdrop,Exchange Listing,Community Building etc.
+
+**Team**
+
+20% (200,000,000) to the project team.
+
+**Advisors**
+
+5% (50,000,000) to the project advisors.
+
+**Private Sales**
+
+10% (100,000,000) will be sold to strategic investors as private sales.
+
+**Development & Operation Fund**
+
+1% (100,000,000) as an operating fee which includes development, maintenance etc.
+
+#### **Lock-Up Plan** <a href="#lock-up-plan" id="lock-up-plan"></a>
