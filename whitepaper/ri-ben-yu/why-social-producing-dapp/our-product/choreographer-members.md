@@ -1,10 +1,3 @@
----
-description: >-
-  We has been doing something innovative with swarm of dancers. Among them were
-  AiKi and Sooho Ryu(Chris Brown likes her choreographer) . Bboy Virus (TIP
-  Crew) and Japan's Genius Bboy Tzuki.
----
-
 # Choreographer Members
 
 &#x20;私たちはダンサーと一緒に革新的な対案を提示してきました。彼らの中には韓流ダンサースターであるAikiやリュ・スホ先生（ミスター・トロットの振付監督の経歴も持ち、アメリカの最高のダンサーでありながら、ヒップホップラッパーでもあるクリス・ブラウンがインスタグラムでコラボのリクエストをするDMを送るほどの方であります。）、韓国を代表するビーボーイのVirusまた、日本の現存する最高の天才ビーボーイツキもあります。
@@ -36,8 +29,6 @@ description: >-
 &#x20;\-ラテンダンス大会
 
 &#x20;[https://www.instagram.com/p/CUMnyN6hqot/?utm\_medium=copy\_link](https://www.instagram.com/p/CUMnyN6hqot//?utm\_medium=copy\_link) ,  [https://www.instagram.com/p/CV9AGEaBQnG/?utm\_medium=copy\_link](https://www.instagram.com/p/CV9AGEaBQnG//?utm\_medium=copy\_link)&#x20;
-
-&#x20; \- 대만 주최자를 통한 글로벌 유소년 비보이 대회와 글로벌 성인 비보이 대회(이번 대회에서는 일본의 세기적 천재라 불리우는 츠키(Tsukki) 가 참여하여 결승을 2번이나 행함으로써 불꽃 튀기는 접전을 벌이며, 온라인 세기의 비보이 대결이라는 점에서, 세계적인 화두가 되고 있음.&#x20;
 
 * 台湾の主催者を通じたグローバル幼少年ビボーイ大会とグローバル大人ビボーイ大会でで、日本の世紀的天才と呼ばれるツキ（Tsukki）が参加し、決勝を2度も行うことで接戦を行い、オンライン大会で世紀のビボーイ対決という呼ばれ、世界的に話題となっている。
 
