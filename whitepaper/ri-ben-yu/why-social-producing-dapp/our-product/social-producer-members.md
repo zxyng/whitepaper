@@ -34,26 +34,6 @@
 
 ![](<../../../../.gitbook/assets/image (6).png>)
 
-"Join the AI-Kpop Social Producer Community"
-
-"Be a Judge and Grow Your Favorite AI-Generated K-Pop Idols"
-
-\<Benefits>
-
-\-Help shape the future of AI-generated entertainment by providing feedback and guidance to the creators
-
-\-Collaborate with other fans and build a strong community around your favorite AI-generated K-pop idols
-
-\-Discover and promote new talented creators and their works
-
-\-Gain exposure and recognition for your talent and creativity as a social producer
-
-\-Experience the excitement and joy of seeing your favorite AI-generated K-pop idols grow and evolve over time
-
-"Apply Today!"
-
-<mark style="color:red;">영어로 표기된 부분또한 번역기로 구현된 표현임을 감안해 문법적으로 두드러지지 않은 부분이 있었습니다.</mark>
-
 「人口知能基盤のKpopソーシャルプロデューサーコミュニティに加入して下さい。」&#x20;
 
 「プロデューサー(審査委員)になり、好きなAIが生成したK-Popアイドルを成長させてください」
