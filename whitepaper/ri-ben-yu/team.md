@@ -1,16 +1,23 @@
 # Team
 
-* This team created artificial intelligence girl group eternity, created of AI generated models for a large Korean department store and wholesale company called Shinsegae, etc. We are ready to create about 5 million artificial intelligence idols based on their beautiful appearance. And also can create AIdol based on user’s face.&#x20;
+* 私たちは、世界初のAI Girl Group、Eternity、Boy Idol Benjamin、Gen ZのアイコンYTを創出しました経験があります。さらに、私たちはライフスタイルやメディア部門でも様々なパートナーシップを結んでいます。Shinsegaeデパート、アリラン国際放送、ロレアルなどです。
+* 私たちは美しい500万人のAI-Dol軍団を生産する準備を終えました。ユーザーの顔写真に基づいて作成することもできます。
 
 {% embed url="https://www.youtube.com/watch?v=RF8B1FPflOI" %}
 
-![](<../../.gitbook/assets/image (1).png>) Shinsegae Group Chairman Mr. Jung and  AI-Influencer YT
+![](<../../.gitbook/assets/image (1).png>)&#x20;
 
-* &#x20;During the covid period, this team held 10 online dance competitions with beatflo app created in-house. National players from 30 countries participated in the b-boy competition, participants including Japan's genius b-boy Tsukki, and Korea's Jinjo Crew, Taiwan’s Choco. In the case of belly dance, 7 countries participated and 18,000 votes were cast. In the case of pole dance, a Japanese woman also won.&#x20;
+Shinsegae Group Chairman Mr. Jung and  AI-Influencer YT
+
+Shinsegaeグループの代表Mr. Jung と AI-Influencer YT
+
+벤자민과 YT의 행보들을 뉴스 기사에서 만나 보세요.ベンジャミンとYTの歩みをニュース記事でお会いして下さい。
+
+* &#x20;コロナ19期間の間、私たちのチームは自社で製作したbeatfloというアプリでオンラインダンス大会を10回開催しました。ビーボーイ大会には、日本の天才ビーボーイTsukki、韓国のJinjo Crew、台湾のChocoなど30カ国の国家代表選手が参加しました。バレーダンスの場合、7カ国が参加し、1万8000票が投票されました。ポールダンスの場合、日本の女性が韓国最高の美女と対決し、日本が優勝しました。
 
 {% embed url="https://www.youtube.com/watch?v=GEA7ZwlCueE" %}
 
-* This team also has been creating Signature choreography motion capture of K-pop famous songs through moverse.club to supply to Metaverse (kinetix in charge of dance motion in Sandbox, Korea's representative mainnet sigmachain Metaverse PikiRoom, Israel’s avaturn and more like https://www. gamestate.one/ etc.)
+* また、我々のチームは、moverse.clubを通じてK-pop名曲のSignature振り付けモーションスクリーンショットを制作し、Metaverse（Sandboxでダンスモーションを担当するkinetix、韓国代表メインネットシグマチェーンMetaverse PikiRoom、イスラエルのavaturnアバター、メタバスK- Pop専用コンサート場開発会社https:// www.gamestate.one/など）に供給してきています。
 
 <figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
