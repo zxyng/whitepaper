@@ -7,11 +7,15 @@ description: >-
 
 # Choreographer Members
 
-<mark style="color:red;">우리는 댄서들과 함께 혁신적인 대안들을 제시해왔습니다. 그들중에는 . Aiki , ( 한류 댄서 스타 도 있고 류수호 선생 미스터 트롯의 안무감독도 했으며 미국의 , 최고의 댄서 힙합 랩퍼인 크리스 브라운이 인스타그램 쪽지로 춤 춰달라 고 할 정도입니다 한국 .) Virus, 대표 비보이 일본의 현존하는 최고의 천재 비보이 츠키도 있 습니다.</mark>
+&#x20;私たちはダンサーと一緒に革新的な対案を提示してきました。彼らの中には韓流ダンサースターであるAikiやリュ・スホ先生（ミスター・トロットの振付監督の経歴も持ち、アメリカの最高のダンサーでありながら、ヒップホップラッパーでもあるクリス・ブラウンがインスタグラムでコラボのリクエストをするDMを送るほどの方であります。）、韓国を代表するビーボーイのVirusまた、日本の現存する最高の天才ビーボーイツキもあります。
 
-<mark style="color:red;">위 문장은 교정이 되어있지 않아 번역이 불가합니다. 번역의 완성을 원하시면 문장을 다듬어서 보내주시면 번역해드리겠습니다 \~!</mark>&#x20;
 
-&#x20;
+
+&#x20; \- コロナ期間中、世界初のオンラインダンストーナメント大会も開きました。 [https://www.youtube.com/watch?v=GEA7ZwlCueE](https://www.youtube.com/watch?v=GEA7ZwlCueE)&#x20;
+
+&#x20;\- 1曲に2つの振り付け対決が起こるフォーマットのワンソング、ツーショー（one song、two shows）も行ったことがあります。
+
+[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
 
 
 
