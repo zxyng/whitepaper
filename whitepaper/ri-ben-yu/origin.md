@@ -4,7 +4,7 @@ description: “ある日目を覚ますと、アイドル企画会社の社長�
 
 # Origin
 
-
+{% embed url="https://youtu.be/66LXdc7NAeU" %}
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
