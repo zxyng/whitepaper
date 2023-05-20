@@ -8,7 +8,7 @@
 
 &#x20;\- 1曲に2つの振り付け対決が起こるフォーマットのワンソング、ツーショー（one song、two shows）も行ったことがあります。
 
-[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
+[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) , [https://youtu.be/\_7K-KKIXC64](https://youtu.be/\_7K-KKIXC64) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
 
 
 

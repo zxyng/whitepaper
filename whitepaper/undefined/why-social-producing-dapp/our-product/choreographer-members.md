@@ -6,7 +6,7 @@
 
 &#x20; \- 하나의 곡에 두 개의 안무 대결이 일어나는 포맷의 원쏭 투쇼 (one song, two shows) 도 진행한 바 있습니다.&#x20;
 
-[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
+[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://youtu.be/\_7K-KKIXC64](https://youtu.be/\_7K-KKIXC64) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
 
 &#x20;
 

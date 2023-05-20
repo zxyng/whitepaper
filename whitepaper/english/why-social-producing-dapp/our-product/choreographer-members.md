@@ -11,7 +11,7 @@ description: >-
 
 &#x20; \-Before Covid-19, We also held a One song-Two shows offline dance competition in the format of two choreography competitions for each song, with 7 songs.
 
-[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
+[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) , [https://youtu.be/\_7K-KKIXC64](https://youtu.be/\_7K-KKIXC64) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
 
 &#x20;Digital item mall (marketplace) with excellent creative choreography. The choreography is provided as a video with a certain format (blue screen), and according to the conditions set by the choreographer, it can be transformed (under development) and applied to your AI-Dol as a distributing music profit share condition or purchasing condition.&#x20;
 
