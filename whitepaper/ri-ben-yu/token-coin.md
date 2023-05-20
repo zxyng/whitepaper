@@ -72,6 +72,6 @@ We allocates 10% (100,000,000) of the total Zxyng token supply as act-to-earn to
 
 **Development & Operation Fund**
 
-1% (100,000,000) as an operating fee which includes development, maintenance etc.
+10% (100,000,000) as an operating fee which includes development, maintenance etc.
 
 #### &#x20;<a href="#lock-up-plan" id="lock-up-plan"></a>
