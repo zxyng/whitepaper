@@ -21,6 +21,8 @@ description: >-
 
 
 
+Polygon Based Governance Token (Platform Coin)
+
 Platform Coin Total Amount : 1B (1,000,000,000)
 
 ## Token Allocation
