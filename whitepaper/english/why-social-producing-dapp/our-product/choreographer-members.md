@@ -1,11 +1,17 @@
 ---
 description: >-
   We has been doing something innovative with swarm of dancers. Among them were
-  AiKi and Sooho Ryu(Chris Brown likes her choreographer) . Bboy Virus (TIP
+  AiKi and Sooho Ryu(Chris Brown likes her choreography.) . Bboy Virus (TIP
   Crew) and Japan's Genius Bboy Tzuki.
 ---
 
 # Choreographer Members
+
+&#x20; \- During Covid-19, we hosted world first online dance tournament several times. [https://www.youtube.com/watch?v=GEA7ZwlCueE](https://www.youtube.com/watch?v=GEA7ZwlCueE)&#x20;
+
+&#x20; \-Before Covid-19, We also held a One song-Two shows offline dance competition in the format of two choreography competitions for each song, with 7 songs.
+
+[https://www.youtube.com/watch?v=xHrM65yUMIw](https://www.youtube.com/watch?v=xHrM65yUMIw) ,  [https://www.youtube.com/watch?v=0DUEWAcfxgE](https://www.youtube.com/watch?v=0DUEWAcfxgE) , [https://www.youtube.com/watch?v=iiJcVnDNdY0](https://www.youtube.com/watch?v=iiJcVnDNdY0) , [https://www.youtube.com/watch?v=wQ6s6Xvj\_w0](https://www.youtube.com/watch?v=wQ6s6Xvj\_w0)&#x20;
 
 &#x20;Digital item mall (marketplace) with excellent creative choreography. The choreography is provided as a video with a certain format (blue screen), and according to the conditions set by the choreographer, it can be transformed (under development) and applied to your AI-Dol as a distributing music profit share condition or purchasing condition.&#x20;
 
