@@ -38,7 +38,7 @@ We allocates 10% (100,000,000) of the total Zxyng token supply as act-to-earn to
 
 **Foundation Staking**&#x20;
 
-30% (300,000,000) as Staking Rewards. The detailed reward policies for stakers will be determined after the ecosystem's decentralized governance is established.
+30% (300,000,000) Staking.  It will be held for the purpose of operating monetary policy in response to inflation and strategic investment at home and abroad.
 
 **Marketing, Community, Airdrop,  Listing**
 
