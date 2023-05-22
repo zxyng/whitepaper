@@ -1,3 +1,3 @@
 # 한국어
 
-![](<../../.gitbook/assets/photo\_2023-05-22\_22-06-28 (1).jpg>)
+![](<../../.gitbook/assets/KakaoTalk\_Photo\_2023-05-23-08-23-56 (2).jpeg>)
