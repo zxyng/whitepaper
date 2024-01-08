@@ -1,22 +1,22 @@
 # RoadMap
 
-## **2023**
-
-July-October: DApp beta version development and testing&#x20;
-
-October: AI-Dol creator and social producer pre-recruitment event begins\~&#x20;
-
-November: Social producing app 'Zxyng' beta launch&#x20;
-
-Q4: The world's first virtual idol Eternity Social Produce Challenge and NFT AirDrop
-
-Q4\~2024.Q1: Recruitment of 500 AI-Dol creators
-
-Q4\~2024.Q1: Recruit 5,000 AI-Dol Social Producers: Award 5,000 NFT Social Producer badges
-
-
-
 ## **2024**
+
+Feb-May: DApp beta version development and testing&#x20;
+
+May: AI-Dol creator and social producer pre-recruitment event begins\~&#x20;
+
+June: Social producing app 'Zxyng' beta launch&#x20;
+
+Q3: The world's first virtual idol Eternity Social Produce Challenge and NFT AirDrop
+
+Q4: Recruitment of 500 AI-Dol creators
+
+Q4: Recruit 5,000 AI-Dol Social Producers: Award 5,000 NFT Social Producer badges
+
+
+
+## **2025**
 
 H1 Face-Body Synthesis: Expressing the entire body of a virtual idol in a video (focused on fixed motions and fashion)&#x20;
 
