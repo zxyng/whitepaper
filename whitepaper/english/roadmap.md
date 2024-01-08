@@ -22,18 +22,6 @@ H1 Face-Body Synthesis: Expressing the entire body of a virtual idol in a video 
 
 H1 general (fan) members: 200,000 recruited&#x20;
 
-H2 Body-Fashion Synthesis: Provides fashion in the virtual idol's entire body in a form that can be customized by the user&#x20;
-
-H2 general (fan) members: 1 million recruited&#x20;
-
-H1\~H2 body- choreography synthesis: Apply desired motions and motions (choreography) to the entire body of the virtual idol&#x20;
-
-H2 Idol group formation function: allows several virtual idols to team up and perform in collaboration.
-
-
-
-## **2025**
-
 H1 fandom group function: Virtual idol fans gather and communicate, produce goods, and provide them in a form that can be sold.&#x20;
 
 H1 AI-Dol members: 5,000&#x20;
@@ -42,4 +30,19 @@ H1 Social Producer Members: 50,000&#x20;
 
 H1 General (Fan) Members: 5 million
 
+H2 Body-Fashion Synthesis: Provides fashion in the virtual idol's entire body in a form that can be customized by the user&#x20;
+
+H2 general (fan) members: 1 million recruited&#x20;
+
+H1\~H2 body- choreography synthesis: Apply desired motions and motions (choreography) to the entire body of the virtual idol&#x20;
+
+H2 Idol group formation function: allows several virtual idols to team up and perform in collaboration.
+
 H2 lyrics/beat/melody/voice/sound effect (instrument) element content synthesis function and provision of digital item mall (marketplace)
+
+
+
+##
+
+
+
