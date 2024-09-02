@@ -1,44 +1,38 @@
 # RoadMap
 
-## **2024**
+**2024**&#x20;
 
-Feb-May: DApp beta version development and testing&#x20;
-
-May: AI-Dol creator and social producer pre-recruitment event begins\~&#x20;
-
-June: Social producing app 'Zxyng' beta launch&#x20;
-
-Q3: The world's first virtual idol Eternity Social Produce Challenge and NFT AirDrop
-
-Q4: Recruitment of 500 AI-Dol creators
-
-Q4: Recruit 5,000 AI-Dol Social Producers: Award 5,000 NFT Social Producer badges
+**March\~December**: Development and testing of DApp beta version
 
 
 
-## **2025**
+**2025**&#x20;
 
-H1 Face-Body Synthesis: Expressing the entire body of a virtual idol in a video (focused on fixed motions and fashion)&#x20;
+**February**: Pre-recruitment event for virtual idol creators and social producers begins\~
 
-H1 general (fan) members: 200,000 recruited&#x20;
+**March**: Beta launch of social producing app 'Jiying'&#x20;
 
-H1 fandom group function: Virtual idol fans gather and communicate, produce goods, and provide them in a form that can be sold.&#x20;
+**Q1** World's first virtual idol Eternity social producing challenge and NFT AirDrop&#x20;
 
-H1 AI-Dol members: 5,000&#x20;
+**Q1** Recruiting 1,000 AIDOL creators
 
-H1 Social Producer Members: 50,000&#x20;
+**Q2** Recruiting 10,000 AIDOL social producers: Awarding 10,000 NFT social producer badges
 
-H1 General (Fan) Members: 5 million
 
-H2 Body-Fashion Synthesis: Provides fashion in the virtual idol's entire body in a form that can be customized by the user&#x20;
 
-H2 general (fan) members: 1 million recruited&#x20;
+**2025**
 
-H1\~H2 body- choreography synthesis: Apply desired motions and motions (choreography) to the entire body of the virtual idol&#x20;
+&#x20;**H1** Face-body synthesis: Expressing the full body of a virtual idol in a video (mainly with set movements and fashion) / Fandom group function: Provided in a form where fans of virtual idols can gather, communicate, produce goods, and sell them
 
-H2 Idol group formation function: allows several virtual idols to team up and perform in collaboration.
+**H1** AIDOL creators: 10,000 / AIDOL social producer members: 100,000 / General (fan) members: 1 million&#x20;
 
-H2 lyrics/beat/melody/voice/sound effect (instrument) element content synthesis function and provision of digital item mall (marketplace)
+**H2** Body-fashion synthesis: Expressing the full body of a virtual idol Fashion is provided in a form that users can customize / Body-choreography synthesis: Provides a form in which desired movements and motions (choreography) can be applied to the entire body of a virtual idol&#x20;
+
+**H2** General (fan) members: 5 million recruited&#x20;
+
+**H2** Idol group formation function: Provides a form in which multiple virtual idols can form a team and collaborate to perform&#x20;
+
+**H2** Lyrics/Beat/Melody/Voice/Sound Effect (Instrument) element content synthesis and item mall provision
 
 
 
